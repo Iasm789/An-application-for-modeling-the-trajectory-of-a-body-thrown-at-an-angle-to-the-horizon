@@ -1,0 +1,1 @@
+# An-application-for-modeling-the-trajectory-of-a-body-thrown-at-an-angle-to-the-horizon
